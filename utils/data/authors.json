@@ -15,7 +15,7 @@
       "last_name" : "Obama",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
       "favorite": true,
-      "uid": ""
+      "uid": "8dfycjHpVyNrUTMhMfqTHqLHpG13"
     },
     "-MiBtwf1BwN9pGavQeR3" : {
       "email" : "hz@zinn.com",
@@ -33,7 +33,7 @@
       "last_name" : "Thomas",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Angie_thomas_9022008.jpg",
       "favorite": false,
-      "uid": ""
+      "uid": "8dfycjHpVyNrUTMhMfqTHqLHpG13"
     },
     "-MiBulenBnY8by9Xn7q1" : {
       "email" : "cw@whithead.com",
@@ -51,7 +51,7 @@
       "last_name" : "Kendall",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Author%2C_activist%2C_and_cultural_critic_Mikki_Kendall.jpg",
       "favorite": true,
-      "uid": ""
+      "uid": "8dfycjHpVyNrUTMhMfqTHqLHpG13"
     },
     "-MiBvQiWr6XNwNa1i3-0" : {
       "email" : "lm@lm.com",
@@ -60,7 +60,7 @@
       "last_name" : "McKinney",
       "image": "https://mpd-biblio-authors.imgix.net/200066919.jpg?fit=crop&crop=faces&w=870&h=870",
       "favorite": true,
-      "uid": ""
+      "uid": "8dfycjHpVyNrUTMhMfqTHqLHpG13"
     },
     "-MiBw4tCvNZd23yTVDQw" : {
       "email" : "jb@baldwin.com",
@@ -69,6 +69,6 @@
       "last_name" : "Baldwin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/James_Baldwin_33_Allan_Warren.jpg",
       "favorite": false,
-      "uid": ""
+      "uid": "8dfycjHpVyNrUTMhMfqTHqLHpG13"
     }
   }

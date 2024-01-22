@@ -73,3 +73,8 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+## Sources
+https://firebase.google.com/docs/reference/js/v8/firebase.auth.UserMetadata#lastsignintime
+
+https://chelsey-wiley.github.io/css-reference-guide/colors.html

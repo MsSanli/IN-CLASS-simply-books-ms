@@ -18,7 +18,7 @@ function AuthorCard({ authorObj, onUpdate }) {
     <Card style={{ width: '18rem', margin: '10px' }}>
       <Card.Img variant="top" src={authorObj.image} style={{ height: '400px' }} />
       <Card.Body>
-        <Card.Title>{authorObj.first_name} {authorObj.last_name} {authorObj.favorite ? 'heart' : ''}</Card.Title>
+        <Card.Title>{authorObj.first_name} {authorObj.last_name} {authorObj.favorite ? '' : ''}</Card.Title>
         {/* author email? */}
         <Link href={`/author/${authorObj.firebaseKey}`} passHref>
           <Button variant="primary" className="m-2">VIEW</Button>

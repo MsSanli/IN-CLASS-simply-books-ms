@@ -10,9 +10,10 @@ export default function UserProf() {
     }}
     >
       <img src={user.photoURL} className="profile-img" alt={user.displayName} style={{ width: '100px', height: '100px' }} />;
-      <h1>{user.displayName}</h1>
+      <h1 style={{ color: 'olivedrab' }}>{user.displayName}</h1>
       {/* make the email clickable */}
       <a href={`mailto:${'marisanli.93@gmail.com'}`}><h4>marisanli.93@gmail.com</h4></a>
+      <h5 style={{ color: 'orchid' }}>Last Sign In Time: {user.metadata.lastSignInTime}</h5>
     </div>
   );
 }

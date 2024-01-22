@@ -33,6 +33,10 @@ export default function NavBar({ user }) {
             <Link passHref href="/profile">
               <Nav.Link><img className="profile-img" src={user.photoURL} alt={user.displayName} /></Nav.Link>
             </Link>
+            <Link passHref href="/profile">
+              <Nav.Link><button type="button" className="btn btn-danger">Sign Out</button>
+              </Nav.Link>
+            </Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
